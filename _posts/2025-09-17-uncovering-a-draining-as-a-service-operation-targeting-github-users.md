@@ -22,5 +22,5 @@ A crypto drainer (aka. drainer) is a tool used for phishing in the Web3 ecosyste
 # Infrastructure Overview
 
 # References
-[1] Chainalysis, ‘Understanding Crypto Drainers’, Crime: Understanding Crypto Drainers. Accessed: Sep. 14, 2025. [Online]. Available: https://www.chainalysis.com/blog/crypto-drainers/
+[1] Chainalysis, ‘Understanding Crypto Drainers’, Crime: Understanding Crypto Drainers. Accessed: Sep. 14, 2025. [Online]. Available: https://www.chainalysis.com/blog/crypto-drainers/ <br>
 [2] Group-IB, ‘Group-IB Knowledge Hub: Crypto Wallet Drainers’, Crypto Wallet Drainers: All About The New and Fast-Growing Threat to the Crypto Industry. Accessed: Sep. 14, 2025. [Online]. Available: https://www.group-ib.com/resources/knowledge-hub/crypto-wallet-drainers
