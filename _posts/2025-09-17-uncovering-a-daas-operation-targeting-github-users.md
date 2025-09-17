@@ -3,7 +3,7 @@ title: Uncovering a DaaS Operation Targeting GitHub Users
 description: An investigation into a Draining-as-a-Service (DaaS) operation targeting GitHub users through phishing emails
 author: IlluminatiFish
 date: 2025-09-17 12:00:00 +0000
-categories: [Phishing, Investigation]
+categories: [Investigations, Phishing]
 tags: [DaaS, Cryptocurrencies, Solana, Crypto Drainers, Crypto Draining]
 pin: true
 math: true
